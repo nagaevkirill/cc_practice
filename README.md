@@ -1,6 +1,7 @@
 # cc_practice
 
-Набор утилит на Python 3.11+.
+Добро пожаловать! Это учебный проект с набором вспомогательных утилит на Python 3.11+.
+Здесь вы найдёте примеры работы с HTTP-запросами, декораторами и тестированием.
 
 ---
 
@@ -63,3 +64,11 @@ print(result.status_code)  # например, 200
 ```bash
 python -m pytest src/tests/test_check_status_mailru.py -v
 ```
+
+---
+
+## Контакты
+
+Автор: **Ivan Petrov**
+Email: ivan.petrov@example.com
+GitHub: https://github.com/ivan-petrov
